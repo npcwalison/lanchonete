@@ -23,5 +23,17 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npcwalison/lanchonete.git"
+  },
+  "author": "Walison Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npcwalison/lanchonete/issues"
+  },
+  "homepage": "https://github.com/npcwalison/lanchonete#readme"
 }
